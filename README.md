@@ -55,7 +55,6 @@ This proccess goal is to being able to develop with [Elixir](https://elixir-lang
 1. Install ***Phoenix*** in ***Ubuntu*** by running:
 
     ```bash
-    sudo apt-get install elixir
     mix local.hex
     mix archive.install hex phx_new
     ```
