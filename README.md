@@ -1,6 +1,14 @@
 # UTF-8 terminal for Windows
 
-This proccess goal is to being able to develop with [**Elixir**](https://elixir-lang.org/) programming language on [**Windows**](https://www.microsoft.com) operating systems implementing a terminal that can correctly display characters encoded for **Unicode UTF-8**.
+![asdf](https://img.shields.io/badge/asdf-v0.11.1-b744b8?style=flat-square)
+![Erlang](https://img.shields.io/badge/Erlang-v25.0.4-a90533?style=flat-square&logo=erlang)
+![Elixir](https://img.shields.io/badge/Elixir-v1.14.0-4e2a8e?style=flat-square&logo=elixir)
+
+## About
+
+This proccess goal is to being able to develop with [**Elixir**](https://elixir-lang.org/) programming language and [**Phoenix**](https://www.phoenixframework.org/) framework on [**Windows**](https://www.microsoft.com) operating systems implementing a terminal that can correctly display characters encoded for **Unicode UTF-8**.
+
+## Steps
 
 1. Install ***Visual Studio Code*** on your system. The installation can be done following the documentation in this link: [`https://code.visualstudio.com/Download`](https://code.visualstudio.com/Download)
 
@@ -32,7 +40,7 @@ This proccess goal is to being able to develop with [**Elixir**](https://elixir-
       unzip
     ```
 
-1. Install ***ASDF*** version manager:
+1. Install ***ASDF*** version manager tool:
 
     ```bash
     git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.11.1
@@ -59,7 +67,3 @@ This proccess goal is to being able to develop with [**Elixir**](https://elixir-
     mix local.hex
     mix archive.install hex phx_new
     ```
-
-1. Install ***PostgreSQL*** in ***Ubuntu***:
-
-    <https://wiki.postgresql.org/wiki/Detailed_installation_guides>
