@@ -12,7 +12,7 @@ This proccess goal is to being able to develop with [**Elixir**](https://elixir-
     wsl --install
     ```
 
-    Some motherboards BIOS may not have *Secure Virtual Machine* (SVM) enabled by default. To enable virtualization, consult the documentation matching the motherboard model and BIOS version in order to enable it.
+    Some motherboards BIOS may not have *Secure Virtual Machine* (SVM) enabled by default. To enable virtualization, check the documentation matching the motherboard model and BIOS version in order to enable it.
 
     Once the system virtualization has been properly configured, the installation can be completed. If this is the case, [Ubuntu](https://ubuntu.com/) will have been installed by default in WSL, the terminal will ask us to create a user with username and password, creating an user completes the installation.
 
