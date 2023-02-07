@@ -49,7 +49,7 @@ This proccess goal is to being able to develop with [**Elixir**](https://elixir-
     source ~/.bashrc
     ```
 
-1. Add to ***ASDF*** the Erlang and Elixir plugins, install both latest version and set those as global target versions:
+1. Add to ***ASDF*** the `erlang` and `elixir` plugins, install both latest versions and set those as global target versions:
 
     ```bash
     asdf plugin-add erlang
