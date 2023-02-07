@@ -10,7 +10,7 @@ This proccess goal is to being able to develop with [**Elixir**](https://elixir-
 
 ## Steps
 
-1. Install ***Visual Studio Code*** on your system. It can be downloaded in this link: [`https://code.visualstudio.com/Download`](https://code.visualstudio.com/Download)
+1. Install ***Visual Studio Code*** on your system. It can be downloaded in this link: [Download Visual Studio Code](https://code.visualstudio.com/Download)
 
 1. Install on ***Visual Studio Code*** application the [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) extension.
 
