@@ -1,6 +1,6 @@
 # UTF-8 terminal for Windows
 
-![asdf](https://img.shields.io/badge/asdf-v0.11.1-b744b8?style=flat-square)
+![ASDF](https://img.shields.io/badge/ASDF-v0.11.1-b744b8?style=flat-square)
 ![Erlang](https://img.shields.io/badge/Erlang-v25.0.4-a90533?style=flat-square&logo=erlang)
 ![Elixir](https://img.shields.io/badge/Elixir-v1.14.0-4e2a8e?style=flat-square&logo=elixir)
 
@@ -66,4 +66,5 @@ This proccess goal is to being able to develop with [**Elixir**](https://elixir-
     ```bash
     mix local.hex
     mix archive.install hex phx_new
-    ```
+
+<https://www.cybertec-postgresql.com/en/postgresql-on-wsl2-for-windows-install-and-setup/>
